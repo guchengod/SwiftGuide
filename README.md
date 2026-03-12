@@ -23,5 +23,3 @@ Swift 开源精选
 * 近期分享和收录 Markdown Programming in Swift
 
 ![](2021/MarkdownProgramminginSwift.png?raw=true)
-
-推荐：VPS 个人一直坚持使用 [Vultr](https://www.vultr.com/?ref=7229348) 。
