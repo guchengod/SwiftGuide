@@ -1,4 +1,4 @@
-English version: [README.md](README.md)
+Language: 中文 · [English](README.md)
 
 Swift 开源精选
 > 本文为 SwiftGuide / Swift 开源精选的原中文说明文档。当前英文 README 作为项目新的主入口，用于重新介绍该项目作为结构化知识资产的历史与延续。
