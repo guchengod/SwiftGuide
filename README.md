@@ -1,25 +1,61 @@
-[![Build Status](https://img.shields.io/badge/semgrep-security-green.svg)](https://semgrep.dev/)
+Language: [中文](README.zh-CN.md) · English
 
-Swift 开源精选
+Swift Open Source Highlights
 ===
-　　自 2014年 WWDC 发布 Swift 语言以来，[本项目](https://github.com/ipader/SwiftGuide/blob/master/2014%20letter.md) 一直致力于将主流 Swift 中文学习、开发资源汇集于此，并且尽力紧密地跟踪、甄选优秀 Swift 开源项目，以方便开发者快速获得并使用。考虑 Swift 已经正式发布超过四年半（更无力管理维护海量的 Swift 学习资源），因此，后续本项目将专注于 Swift 开源精选资源方向（项目及应用架构，开发方法和工具）进行维护、更新，内容的呈现或展示形式将着重于思维导图。而相对偏重于 Swift 初学者的旧有文档 [Swift 语言指南](https://github.com/ipader/SwiftGuide/blob/master/README20181213.md) 将不再进一步更新、维护。项目名称变更为 Swift 开源精选，库名由原先的 SwiftGuide 改为 awesome-swift。后续更新、维护的文档如下：
 
-* Swift 开源项目精选导图
-> 这份文档主要基于微博 @SwiftLanguage 跟踪过活跃于 Swift 语言领域的那些 GitHub 开源项目，顺便也是对于过去几年关注的开源项目进行一次系统化梳理。尝试整理出一份相对结构化且精练的 Swift 开源项目参考知识库，它将主要以思维导图形式呈现。[详见……](2019/OpenSourceforSwift-Classification.md)　　
+> **A structured knowledge project revisited**  
+> SwiftGuide was a long-running Swift learning and open source reference project.  
+> Today, it is being revisited as a real-world sample for exploring how long-lived Markdown documents and mind-map structures can become maintainable knowledge assets with DeMinds.  
+> Related project: [DeMinds](https://deminds.xyz)
+
+Since Apple introduced Swift at WWDC 2014, [this project](https://github.com/ipader/SwiftGuide/blob/master/2014%20letter.md) has been collecting mainstream Swift learning and development resources, especially for Chinese-speaking developers.
+
+Over time, as Swift became more mature and the volume of beginner-oriented learning materials grew beyond what this project could reasonably maintain, SwiftGuide shifted its focus. Instead of trying to keep every Swift learning resource up to date, the project now concentrates on selected Swift open source resources, including projects, application architecture, development practices, and tools.
+
+The current version of this project is therefore less a beginner’s Swift guide and more a structured reference map for the Swift open source ecosystem. Its content is designed to be presented mainly through mind maps, making it easier to browse, compare, and revisit over time.
+
+The older beginner-focused document, [Swift Language Guide](https://github.com/ipader/SwiftGuide/blob/master/README20181213.md), is no longer actively updated or maintained.
+
+The project was renamed from **SwiftGuide** to **Swift Open Source Highlights**, and the repository name was changed from the original `SwiftGuide` to `awesome-swift`.
+
+The documents currently maintained or preserved are listed below.
+
+## Swift Open Source Project Map
+
+This document is based mainly on the GitHub projects tracked over the years by Weibo account [@SwiftLanguage](https://weibo.com/SwiftLanguage), along with a broader review of open source projects in the Swift ecosystem.
+
+It is an attempt to organize those projects into a relatively structured and concise Swift open source reference knowledge base, presented primarily as a mind map.
+
+[Read more...](2019/OpenSourceforSwift-Classification.md)
 
 ![](2019/OpenSourceforSwift-Classification.png?raw=true)
 
-* Swift 开源项目精选 - 应用架构角度
-> 基于[Swift 开源项目精选导图](2019/OpenSourceforSwift-Classification.md)，以应用架构角度出发继续甄选并“精分”。筛选、介定方法更偏重于构建应用时，项目在分类中起到的作用权重，可持续性权重，并部分算上开发者影响力。尝试持续地完善一份不那么杂乱无章（也许还比较好用）的 Swift 开源子集。[详见……](2019/OpenSourceforSwift-ApplicationArchitecture.md)　
+## Swift Open Source Projects — Application Architecture View
+
+Based on the [Swift Open Source Project Map](2019/OpenSourceforSwift-Classification.md), this document further refines the selected projects from an application architecture perspective.
+
+The selection and classification are weighted more toward how each project contributes to building real applications, its long-term sustainability, and, in some cases, the influence of its developers or maintainers.
+
+The goal is to maintain a focused and less chaotic subset of Swift open source projects that may be more useful when thinking about application architecture and development practice.
+
+[Read more...](2019/OpenSourceforSwift-ApplicationArchitecture.md)
 
 ![](2019/OpenSourceforSwift-ApplicationArchitecture.png?raw=true)
 
-* Swift 开源项目团队介绍
-> 介绍活跃于开源社区优秀的项目团队以及参与到 Swift 项目的公司或组织。[详见……](2019/SwiftDevelopmentTeam.md)　
+## Swift Open Source Project Teams
 
-* Swift 知名开发者介绍
-> 介绍活跃于开源社区知名的开发者及其作品。[详见……](2019/SwiftDevelopers.md)　
+An introduction to notable project teams, companies, and organizations that have contributed to the Swift open source ecosystem.
 
-* 近期分享和收录 Markdown Programming in Swift
+[Read more...](2019/SwiftDevelopmentTeam.md)
+
+## Notable Swift Developers
+
+An introduction to well-known developers active in the Swift open source community and the projects they have created or maintained.
+
+[Read more...](2019/SwiftDevelopers.md)
+
+## Recent Share and Collection
+
+Markdown Programming in Swift
 
 ![](2021/MarkdownProgramminginSwift.png?raw=true)
